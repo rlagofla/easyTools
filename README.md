@@ -5,3 +5,5 @@
 我想把我从入门到现在为止做的小东西都放在这里
 
 - [addBlockquotes](addBlockquotes). 用于给一段文字前面批量加上 `> `
+
+- [easyEncrypt](easyEncrypt). 用于给文段做简单的加密
