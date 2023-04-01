@@ -6,1313 +6,1095 @@ log-level: info
 external-controller: :9090
 proxies:
 - name: 🇺🇦 乌克兰01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '19970'
+  port: '19974'
+  cipher: aes-128-gcm
   password: dajkdkjda&dj23gsa
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇮🇱 以色列01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '2212'
+  port: '2213'
+  cipher: aes-128-gcm
   password: dajkdkjda&dj23gsa
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇮🇷 伊朗01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '38016'
+  port: '38017'
+  cipher: aes-128-gcm
   password: dajkdkjdssa&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇷🇺 俄罗斯01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '37866'
+  port: '37867'
+  cipher: aes-128-gcm
   password: dajkdkjd2a&dj23gsa
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇺 匈牙利01 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '38014'
+  port: '38015'
+  cipher: aes-128-gcm
   password: dajkdkjdssa&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇿🇦 南非01-标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '2416'
+  port: '2417'
+  cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇮🇩 印度尼西亚01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '2210'
+  port: '2211'
+  cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾01 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '2085'
+  port: '7006'
+  cipher: aes-128-gcm
   password: PF9Cn0gJfHKBknec
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾02 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '39005'
+  port: '39006'
+  cipher: aes-128-gcm
   password: dajkdkjdssa&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾03 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '39007'
+  port: '39008'
+  cipher: aes-128-gcm
   password: dajkd*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇦🇹 奥地利01 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '39076'
+  port: '39077'
+  cipher: aes-128-gcm
   password: dajat*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇳🇬 尼日利亚01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '10046'
+  port: '10019'
+  cipher: aes-128-gcm
   password: aa2sa2/1a
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇵🇰 巴基斯坦01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '11104'
+  port: '11105'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇧🇷 巴西01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '14443'
+  port: '14444'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_sha1
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡01-解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '9100'
+  port: '9101'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡02 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '3502'
+  port: '13009'
+  cipher: aes-128-gcm
   password: 4ZdeBTVDH3iW
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡03 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '3501'
+  port: '5105'
+  cipher: aes-128-gcm
   password: WZWOX3QwRGwL
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡04 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '19992'
+  port: '19993'
+  cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本01 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '5115'
+  port: '5116'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本02 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '5117'
+  port: '5118'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本03 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '1760'
+  port: '13007'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本04 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '14445'
+  port: '14446'
+  cipher: aes-128-gcm
   password: ayddssffssd1
-  cipher: aes-256-cfb
-  protocol: auth_aes128_sha1
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本05 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '14448'
+  port: '14449'
+  cipher: aes-128-gcm
   password: ayds232sffssd1
-  cipher: aes-256-cfb
-  protocol: auth_aes128_sha1
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇭 泰国01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '10016'
+  port: '10047'
+  cipher: aes-128-gcm
   password: aa2sa2/1a
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇪 瑞典01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '2414'
+  port: '2415'
+  cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇨🇭 瑞士01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '2412'
+  port: '2413'
+  cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇱🇹 立陶宛01 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '11106'
+  port: '11107'
+  cipher: aes-128-gcm
   password: V2efL2JZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国01 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '5119'
+  port: '5120'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国02-解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '5121'
+  port: '5122'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国03 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '6337'
+  port: '9112'
+  cipher: aes-128-gcm
   password: JkIzPYpmLFEa
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国04 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '6331'
+  port: '2404'
+  cipher: aes-128-gcm
   password: T9Wi5TLbGUvS
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇬🇧 英国01 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '2506'
+  port: '8106'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇳🇱 荷兰01 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '1708'
+  port: '2770'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇻🇳 越南01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '10022'
+  port: '10023'
+  cipher: aes-128-gcm
   password: aa22/1a
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇦🇪 迪拜01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '3222'
+  port: '3223'
+  cipher: aes-128-gcm
   password: aa2sa2/1a
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇰🇷 韩国01 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '6325'
+  port: '9302'
+  cipher: aes-128-gcm
   password: f7wGPZRd1otw
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇰🇷 韩国02 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '39040'
+  port: '39041'
+  cipher: aes-128-gcm
   password: dajkdkjdssa&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇰🇷 韩国03 - 解锁 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '39042'
+  port: '39043'
+  cipher: aes-128-gcm
   password: dajkdkj4dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港01 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '5111'
+  port: '5112'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港02 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '5113'
+  port: '5114'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港03-原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '5123'
+  port: '5124'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港04-标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '5125'
+  port: '5126'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港05 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '1714'
+  port: '5012'
+  cipher: aes-128-gcm
   password: WScQ07DX5l3Ye
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港06 - 标准 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '1717'
+  port: '5015'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港07 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '1715'
+  port: '5013'
+  cipher: aes-128-gcm
   password: WScQ07DX5l3Ye
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇲🇾 马来西亚01 - 原生 Exclusive
-  type: ssr
+  type: ss
   server: 2212.level3.sdl-sz.com
-  port: '36576'
+  port: '36575'
+  cipher: aes-128-gcm
   password: dajkdkjda&dj23gsa
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇩🇰 丹麦A - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '39202'
+  port: '39203'
+  cipher: aes-128-gcm
   password: da2dk2jat*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇧🇬 保加利亚A - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '39074'
+  port: '39075'
+  cipher: aes-128-gcm
   password: dajdsbg*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇮🇳 印度A - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2599'
+  port: '2778'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾A - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2084'
+  port: '7005'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾B - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2081'
+  port: '7001'
+  cipher: aes-128-gcm
   password: QAQQpKtkjL8u
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾C - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '10017'
+  port: '10018'
+  cipher: aes-128-gcm
   password: UgcF0weGywRj
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾D - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2083'
+  port: '7004'
+  cipher: aes-128-gcm
   password: oY8P39A1GFur
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾E - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '39009'
+  port: '39010'
+  cipher: aes-128-gcm
   password: dajksd*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇷 土耳其A - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '6328'
+  port: '13003'
+  cipher: aes-128-gcm
   password: t4n6KpPzaZ1B
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇲🇽 墨西哥A - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '36577'
+  port: '36578'
+  cipher: aes-128-gcm
   password: dajkdkjda&dj23gsa
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇧🇷 巴西A - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '6555'
+  port: '6556'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_sha1
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇮🇹 意大利A-标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '7500'
+  port: '7501'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇲🇩 摩尔多瓦A - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '37868'
+  port: '37869'
+  cipher: aes-128-gcm
   password: dajkdkjda&dj23gsa
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡A - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1752'
+  port: '5102'
+  cipher: aes-128-gcm
   password: QAQQpKtkjL8u
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡B - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1759'
+  port: '5104'
+  cipher: aes-128-gcm
   password: 6V69PJ2G76yP
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡C - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1758'
+  port: '5103'
+  cipher: aes-128-gcm
   password: zEb7MwwwC7P5
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡D - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '19994'
+  port: '19995'
+  cipher: aes-128-gcm
   password: dkdkjda&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本A - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2502'
+  port: '6454'
+  cipher: aes-128-gcm
   password: Hl8lX5v4wIsU
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本B - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1756'
+  port: '2401'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本C - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1751'
+  port: '2771'
+  cipher: aes-128-gcm
   password: HHqbm6EPA
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本D - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2503'
+  port: '8103'
+  cipher: aes-128-gcm
   password: fcy76axhLPevtv
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本E - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2504'
+  port: '8104'
+  cipher: aes-128-gcm
   password: Z98OudrGXC629
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇨🇱 智利A - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2202'
+  port: '2203'
+  cipher: aes-128-gcm
   password: a&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇧🇪 比利时A - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '10044'
+  port: '10045'
+  cipher: aes-128-gcm
   password: aa2sa2/1a
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇦 沙特阿拉伯A - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2410'
+  port: '2411'
+  cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇦🇺 澳大利亚A - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '239'
+  port: '2775'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国A - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '6329'
+  port: '13004'
+  cipher: aes-128-gcm
   password: exFZ1aeUSkljTI7I
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国B - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '6336'
+  port: '9111'
+  cipher: aes-128-gcm
   password: ycIwsyL1aqtuC1s
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国C - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '7568'
+  port: '2772'
+  cipher: aes-128-gcm
   password: f7wGPZRd1otw
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国D - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '6332'
+  port: '13006'
+  cipher: aes-128-gcm
   password: nI5sm5VRdi0J
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国E - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2501'
+  port: '2776'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国F - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '6326'
+  port: '13001'
+  cipher: aes-128-gcm
   password: eE62zfpU88Mf
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国G - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '6330'
+  port: '13005'
+  cipher: aes-128-gcm
   password: QpQgB4jAlvpm5yZy
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇵🇭 菲律宾A - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '2505'
+  port: '8105'
+  cipher: aes-128-gcm
   password: 8Y5Yro3aODlS
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇦🇷 阿根廷A-标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '7502'
+  port: '7503'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇰🇷 韩国A - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '226'
+  port: '9301'
+  cipher: aes-128-gcm
   password: rSGFDwP3WH0j
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇰🇷 韩国B - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '39044'
+  port: '39045'
+  cipher: aes-128-gcm
   password: daj3*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港A - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1709'
+  port: '5009'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港B - 标准 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1716'
+  port: '5014'
+  cipher: aes-128-gcm
   password: WZ7XlUJCxpkU
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港C - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1713'
+  port: '5011'
+  cipher: aes-128-gcm
   password: ModNQYOUAeh
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港D - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1712'
+  port: '5010'
+  cipher: aes-128-gcm
   password: sI9ekIVdZIXK
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港E - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1706'
+  port: '5006'
+  cipher: aes-128-gcm
   password: AitePzTo6FF1
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港F - 解锁 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1704'
+  port: '6453'
+  cipher: aes-128-gcm
   password: N451htPMGW9k
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港G - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1702'
+  port: '5002'
+  cipher: aes-128-gcm
   password: k7u4NTcuvGQz
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港H - 原生 Premium
-  type: ssr
+  type: ss
   server: 2212.level2.sdl-sz.com
-  port: '1707'
+  port: '5007'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇷🇺 俄罗斯I - 原生 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '1710'
+  port: '2402'
+  cipher: aes-128-gcm
   password: lOP38MH6ZokP
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇨🇦 加拿大I - 标准 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '6335'
+  port: '9303'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇹🇼 台湾I - 原生 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '2080'
+  port: '7002'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇩🇪 德国I - 标准 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '3001'
+  port: '3100'
+  cipher: aes-128-gcm
   password: XePf8VAlkzkg
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇸🇬 新加坡I - 解锁 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '1754'
+  port: '5101'
+  cipher: aes-128-gcm
   password: HBHqbm6EPA
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本I - 解锁 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '1753'
+  port: '8102'
+  cipher: aes-128-gcm
   password: 6FZVhhAzsE2x
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇯🇵 日本II - 标准 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '1750'
+  port: '2774'
+  cipher: aes-128-gcm
   password: lN6jZhAIB
-  cipher: rc4-md5
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇫🇷 法国I - 标准 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '6324'
+  port: '13000'
+  cipher: aes-128-gcm
   password: zHdKkwJP6GNS
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇵🇱 波兰I - 标准 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '2206'
+  port: '2207'
+  cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇷🇴 罗马尼亚I - 下载 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '6334'
+  port: '13008'
+  cipher: aes-128-gcm
   password: JJWUVbWzDWW
-  cipher: chacha20-ietf
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: tls1.2_ticket_auth
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国I - 解锁 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '1755'
+  port: '2403'
+  cipher: aes-128-gcm
   password: PKWvedVjjS3q
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国II - 解锁 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '6327'
+  port: '13002'
+  cipher: aes-128-gcm
   password: HiC7zxygaWDq
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇺🇸 美国III - 标准 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '256'
+  port: '2779'
+  cipher: aes-128-gcm
   password: N451htPMGW9k
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇬🇧 英国I - 解锁 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '2579'
+  port: '2773'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇰🇷 韩国I - 解锁 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '39046'
+  port: '39047'
+  cipher: aes-128-gcm
   password: dajdsd3*/?
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港I - 原生 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '1703'
+  port: '5003'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港II - 标准 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '1700'
+  port: '5000'
+  cipher: aes-128-gcm
   password: V2efLnR3SJZr
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 - name: 🇭🇰 香港III - 标准 Light
-  type: ssr
+  type: ss
   server: 2212.level1.sdl-sz.com
-  port: '1705'
+  port: '5005'
+  cipher: aes-128-gcm
   password: 3ke1YNBPgvh3
-  cipher: aes-256-cfb
-  protocol: auth_aes128_md5
-  protocolparam: 29729:R7jdXn
-  protocol-param: 29729:R7jdXn
-  obfs: http_simple
-  obfsparam: 63f4529729.microsoft.com
-  obfs-param: 63f4529729.microsoft.com
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 63f4529729.microsoft.com
 proxy-groups:
 - name: 🇭🇰 香港
   type: select
