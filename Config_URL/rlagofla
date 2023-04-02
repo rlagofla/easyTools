@@ -1310,6 +1310,7 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
+  - REJECT
 - name: 💬 ChatGPT
   type: select
   proxies:
@@ -1350,6 +1351,7 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
+  - REJECT
 - name: 🍎 苹果服务
   type: select
   proxies:
@@ -1361,6 +1363,7 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
+  - REJECT
 - name: ✉️ Gmail
   type: select
   proxies:
@@ -1491,16 +1494,19 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
+  - REJECT
 - name: 🎯 全球直连
   type: select
   proxies:
   - DIRECT
   - 🚀 手动切换
+  - REJECT
 - name: 🐟 漏网之鱼
   type: select
   proxies:
   - 🚀 手动切换
   - 🎯 全球直连
+  - REJECT
 rules:
 - DOMAIN-KEYWORD,openai,💬 ChatGPT
 - DOMAIN-KEYWORD,gmail,✉️ Gmail
