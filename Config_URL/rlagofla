@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-- name: 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
+- name: 🇺🇦 乌克兰01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '19974'
@@ -15,7 +15,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇮🇱 以色列01 - 标准 Exclusive ✈️
+- name: 🇮🇱 以色列01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '2213'
@@ -25,7 +25,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇮🇷 伊朗01 - 标准 Exclusive ✈️
+- name: 🇮🇷 伊朗01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '38017'
@@ -35,7 +35,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
+- name: 🇷🇺 俄罗斯01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '37867'
@@ -45,7 +45,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
+- name: 🇭🇺 匈牙利01 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '38015'
@@ -55,7 +55,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇿🇦 南非01-标准 Exclusive ✈️
+- name: 🇿🇦 南非01-标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '2417'
@@ -65,7 +65,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
+- name: 🇮🇩 印度尼西亚01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '2211'
@@ -75,7 +75,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾01 - 原生 Exclusive ✈️
+- name: 🇹🇼 台湾01 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '7006'
@@ -85,7 +85,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾02 - 解锁 Exclusive ✈️
+- name: 🇹🇼 台湾02 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '39006'
@@ -95,7 +95,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾03 - 解锁 Exclusive ✈️
+- name: 🇹🇼 台湾03 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '39008'
@@ -105,7 +105,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇦🇹 奥地利01 - 原生 Exclusive ✈️
+- name: 🇦🇹 奥地利01 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '39077'
@@ -115,7 +115,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
+- name: 🇳🇬 尼日利亚01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '10019'
@@ -125,7 +125,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
+- name: 🇵🇰 巴基斯坦01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '11105'
@@ -135,7 +135,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇧🇷 巴西01 - 标准 Exclusive ✈️
+- name: 🇧🇷 巴西01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '14444'
@@ -145,7 +145,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡01-解锁 Exclusive ✈️
+- name: 🇸🇬 新加坡01-解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '9101'
@@ -155,7 +155,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
+- name: 🇸🇬 新加坡02 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '13009'
@@ -165,7 +165,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡03 - 原生 Exclusive ✈️
+- name: 🇸🇬 新加坡03 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5105'
@@ -175,7 +175,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡04 - 标准 Exclusive ✈️
+- name: 🇸🇬 新加坡04 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '19993'
@@ -185,7 +185,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本01 - 解锁 Exclusive ✈️
+- name: 🇯🇵 日本01 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5116'
@@ -195,7 +195,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本02 - 解锁 Exclusive ✈️
+- name: 🇯🇵 日本02 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5118'
@@ -205,7 +205,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本03 - 标准 Exclusive ✈️
+- name: 🇯🇵 日本03 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '13007'
@@ -215,7 +215,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本04 - 原生 Exclusive ✈️
+- name: 🇯🇵 日本04 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '14446'
@@ -225,7 +225,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本05 - 原生 Exclusive ✈️
+- name: 🇯🇵 日本05 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '14449'
@@ -235,7 +235,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇭 泰国01 - 标准 Exclusive ✈️
+- name: 🇹🇭 泰国01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '10047'
@@ -245,7 +245,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇪 瑞典01 - 标准 Exclusive ✈️
+- name: 🇸🇪 瑞典01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '2415'
@@ -255,7 +255,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇨🇭 瑞士01 - 标准 Exclusive ✈️
+- name: 🇨🇭 瑞士01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '2413'
@@ -265,7 +265,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
+- name: 🇱🇹 立陶宛01 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '11107'
@@ -275,7 +275,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国01 - 解锁 Exclusive ✈️
+- name: 🇺🇸 美国01 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5120'
@@ -285,7 +285,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国02-解锁 Exclusive ✈️
+- name: 🇺🇸 美国02-解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5122'
@@ -295,7 +295,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国03 - 标准 Exclusive ✈️
+- name: 🇺🇸 美国03 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '9112'
@@ -305,7 +305,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国04 - 原生 Exclusive ✈️
+- name: 🇺🇸 美国04 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '2404'
@@ -315,7 +315,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇬🇧 英国01 - 原生 Exclusive ✈️
+- name: 🇬🇧 英国01 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '8106'
@@ -325,7 +325,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇳🇱 荷兰01 - 原生 Exclusive ✈️
+- name: 🇳🇱 荷兰01 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '2770'
@@ -335,7 +335,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇻🇳 越南01 - 标准 Exclusive ✈️
+- name: 🇻🇳 越南01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '10023'
@@ -345,7 +345,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇦🇪 迪拜01 - 标准 Exclusive ✈️
+- name: 🇦🇪 迪拜01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '3223'
@@ -355,7 +355,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇰🇷 韩国01 - 解锁 Exclusive ✈️
+- name: 🇰🇷 韩国01 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '9302'
@@ -365,7 +365,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇰🇷 韩国02 - 解锁 Exclusive ✈️
+- name: 🇰🇷 韩国02 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '39041'
@@ -375,7 +375,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇰🇷 韩国03 - 解锁 Exclusive ✈️
+- name: 🇰🇷 韩国03 - 解锁 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '39043'
@@ -385,7 +385,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港01 - 标准 Exclusive ✈️
+- name: 🇭🇰 香港01 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5112'
@@ -395,7 +395,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港02 - 标准 Exclusive ✈️
+- name: 🇭🇰 香港02 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5114'
@@ -405,7 +405,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港03-原生 Exclusive ✈️
+- name: 🇭🇰 香港03-原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5124'
@@ -415,7 +415,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港04-标准 Exclusive ✈️
+- name: 🇭🇰 香港04-标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5126'
@@ -425,7 +425,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港05 - 原生 Exclusive ✈️
+- name: 🇭🇰 香港05 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5012'
@@ -435,7 +435,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港06 - 标准 Exclusive ✈️
+- name: 🇭🇰 香港06 - 标准 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5015'
@@ -445,7 +445,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港07 - 原生 Exclusive ✈️
+- name: 🇭🇰 香港07 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '5013'
@@ -455,7 +455,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
+- name: 🇲🇾 马来西亚01 - 原生 Exclusive
   type: ss
   server: 2212.level3.sdl-sz.com
   port: '36575'
@@ -465,7 +465,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇩🇰 丹麦A - 原生 Premium ✈️
+- name: 🇩🇰 丹麦A - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '39203'
@@ -475,7 +475,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇧🇬 保加利亚A - 原生 Premium ✈️
+- name: 🇧🇬 保加利亚A - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '39075'
@@ -485,7 +485,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇮🇳 印度A - 标准 Premium ✈️
+- name: 🇮🇳 印度A - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '2778'
@@ -495,7 +495,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾A - 原生 Premium ✈️
+- name: 🇹🇼 台湾A - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '7005'
@@ -505,7 +505,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾B - 原生 Premium ✈️
+- name: 🇹🇼 台湾B - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '7001'
@@ -515,7 +515,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾C - 原生 Premium ✈️
+- name: 🇹🇼 台湾C - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '10018'
@@ -525,7 +525,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾D - 原生 Premium ✈️
+- name: 🇹🇼 台湾D - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '7004'
@@ -535,7 +535,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾E - 解锁 Premium ✈️
+- name: 🇹🇼 台湾E - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '39010'
@@ -545,7 +545,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇷 土耳其A - 原生 Premium ✈️
+- name: 🇹🇷 土耳其A - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '13003'
@@ -555,7 +555,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇲🇽 墨西哥A - 标准 Premium ✈️
+- name: 🇲🇽 墨西哥A - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '36578'
@@ -565,7 +565,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇧🇷 巴西A - 标准 Premium ✈️
+- name: 🇧🇷 巴西A - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '6556'
@@ -575,7 +575,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇮🇹 意大利A-标准 Premium ✈️
+- name: 🇮🇹 意大利A-标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '7501'
@@ -585,7 +585,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
+- name: 🇲🇩 摩尔多瓦A - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '37869'
@@ -595,7 +595,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡A - 解锁 Premium ✈️
+- name: 🇸🇬 新加坡A - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5102'
@@ -605,7 +605,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡B - 标准 Premium ✈️
+- name: 🇸🇬 新加坡B - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5104'
@@ -615,7 +615,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡C - 解锁 Premium ✈️
+- name: 🇸🇬 新加坡C - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5103'
@@ -625,7 +625,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡D - 标准 Premium ✈️
+- name: 🇸🇬 新加坡D - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '19995'
@@ -635,7 +635,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本A - 标准 Premium ✈️
+- name: 🇯🇵 日本A - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '6454'
@@ -645,7 +645,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本B - 标准 Premium ✈️
+- name: 🇯🇵 日本B - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '2401'
@@ -655,7 +655,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本C - 解锁 Premium ✈️
+- name: 🇯🇵 日本C - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '2771'
@@ -665,7 +665,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本D - 解锁 Premium ✈️
+- name: 🇯🇵 日本D - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '8103'
@@ -675,7 +675,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本E - 原生 Premium ✈️
+- name: 🇯🇵 日本E - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '8104'
@@ -685,7 +685,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇨🇱 智利A - 标准 Premium ✈️
+- name: 🇨🇱 智利A - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '2203'
@@ -695,7 +695,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇧🇪 比利时A - 原生 Premium ✈️
+- name: 🇧🇪 比利时A - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '10045'
@@ -705,7 +705,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
+- name: 🇸🇦 沙特阿拉伯A - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '2411'
@@ -715,7 +715,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇦🇺 澳大利亚A - 原生 Premium ✈️
+- name: 🇦🇺 澳大利亚A - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '2775'
@@ -725,7 +725,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国A - 解锁 Premium ✈️
+- name: 🇺🇸 美国A - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '13004'
@@ -735,7 +735,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国B - 解锁 Premium ✈️
+- name: 🇺🇸 美国B - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '9111'
@@ -745,7 +745,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国C - 解锁 Premium ✈️
+- name: 🇺🇸 美国C - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '2772'
@@ -755,7 +755,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国D - 标准 Premium ✈️
+- name: 🇺🇸 美国D - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '13006'
@@ -765,7 +765,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国E - 解锁 Premium ✈️
+- name: 🇺🇸 美国E - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '2776'
@@ -775,7 +775,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国F - 标准 Premium ✈️
+- name: 🇺🇸 美国F - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '13001'
@@ -785,7 +785,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国G - 解锁 Premium ✈️
+- name: 🇺🇸 美国G - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '13005'
@@ -795,7 +795,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇵🇭 菲律宾A - 原生 Premium ✈️
+- name: 🇵🇭 菲律宾A - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '8105'
@@ -805,7 +805,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇦🇷 阿根廷A-标准 Premium ✈️
+- name: 🇦🇷 阿根廷A-标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '7503'
@@ -815,7 +815,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇰🇷 韩国A - 解锁 Premium ✈️
+- name: 🇰🇷 韩国A - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '9301'
@@ -825,7 +825,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇰🇷 韩国B - 解锁 Premium ✈️
+- name: 🇰🇷 韩国B - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '39045'
@@ -835,7 +835,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港A - 标准 Premium ✈️
+- name: 🇭🇰 香港A - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5009'
@@ -845,7 +845,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港B - 标准 Premium ✈️
+- name: 🇭🇰 香港B - 标准 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5014'
@@ -855,7 +855,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港C - 原生 Premium ✈️
+- name: 🇭🇰 香港C - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5011'
@@ -865,7 +865,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港D - 原生 Premium ✈️
+- name: 🇭🇰 香港D - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5010'
@@ -875,7 +875,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港E - 解锁 Premium ✈️
+- name: 🇭🇰 香港E - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5006'
@@ -885,7 +885,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港F - 解锁 Premium ✈️
+- name: 🇭🇰 香港F - 解锁 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '6453'
@@ -895,7 +895,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港G - 原生 Premium ✈️
+- name: 🇭🇰 香港G - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5002'
@@ -905,7 +905,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港H - 原生 Premium ✈️
+- name: 🇭🇰 香港H - 原生 Premium
   type: ss
   server: 2212.level2.sdl-sz.com
   port: '5007'
@@ -915,7 +915,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇷🇺 俄罗斯I - 原生 Light ✈️
+- name: 🇷🇺 俄罗斯I - 原生 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '2402'
@@ -925,7 +925,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇨🇦 加拿大I - 标准 Light ✈️
+- name: 🇨🇦 加拿大I - 标准 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '9303'
@@ -935,7 +935,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇹🇼 台湾I - 原生 Light ✈️
+- name: 🇹🇼 台湾I - 原生 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '7002'
@@ -945,7 +945,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇩🇪 德国I - 标准 Light ✈️
+- name: 🇩🇪 德国I - 标准 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '3100'
@@ -955,7 +955,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇸🇬 新加坡I - 解锁 Light ✈️
+- name: 🇸🇬 新加坡I - 解锁 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '5101'
@@ -965,7 +965,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本I - 解锁 Light ✈️
+- name: 🇯🇵 日本I - 解锁 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '8102'
@@ -975,7 +975,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇯🇵 日本II - 标准 Light ✈️
+- name: 🇯🇵 日本II - 标准 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '2774'
@@ -985,7 +985,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇫🇷 法国I - 标准 Light ✈️
+- name: 🇫🇷 法国I - 标准 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '13000'
@@ -995,7 +995,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇵🇱 波兰I - 标准 Light ✈️
+- name: 🇵🇱 波兰I - 标准 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '2207'
@@ -1005,7 +1005,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇷🇴 罗马尼亚I - 下载 Light ✈️
+- name: 🇷🇴 罗马尼亚I - 下载 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '13008'
@@ -1015,7 +1015,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国I - 解锁 Light ✈️
+- name: 🇺🇸 美国I - 解锁 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '2403'
@@ -1025,7 +1025,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国II - 解锁 Light ✈️
+- name: 🇺🇸 美国II - 解锁 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '13002'
@@ -1035,7 +1035,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇺🇸 美国III - 标准 Light ✈️
+- name: 🇺🇸 美国III - 标准 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '2779'
@@ -1045,7 +1045,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇬🇧 英国I - 解锁 Light ✈️
+- name: 🇬🇧 英国I - 解锁 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '2773'
@@ -1055,7 +1055,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇰🇷 韩国I - 解锁 Light ✈️
+- name: 🇰🇷 韩国I - 解锁 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '39047'
@@ -1065,7 +1065,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港I - 原生 Light ✈️
+- name: 🇭🇰 香港I - 原生 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '5003'
@@ -1075,7 +1075,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港II - 标准 Light ✈️
+- name: 🇭🇰 香港II - 标准 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '5000'
@@ -1085,7 +1085,7 @@ proxies:
   plugin-opts:
     mode: http
     host: cd09d29729.microsoft.com
-- name: 🇭🇰 香港III - 标准 Light ✈️
+- name: 🇭🇰 香港III - 标准 Light
   type: ss
   server: 2212.level1.sdl-sz.com
   port: '5005'
@@ -1099,89 +1099,89 @@ proxy-groups:
 - name: 🇭🇰 香港
   type: select
   proxies:
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: 🇹🇼 台湾
   type: select
   proxies:
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇼 台湾I - 原生 Light
 - name: 🇸🇬 新加坡
   type: select
   proxies:
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇸🇬 新加坡I - 解锁 Light
 - name: 🇰🇷 韩国
   type: select
   proxies:
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇰🇷 韩国I - 解锁 Light
 - name: 🇯🇵 日本
   type: select
   proxies:
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
 - name: 🇺🇸 美国
   type: select
   proxies:
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
 - name: 🚀 手动切换
   type: select
   proxies:
@@ -1191,115 +1191,115 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: 🎥 NETFLIX
   type: select
   proxies:
@@ -1310,227 +1310,227 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: 💬 ChatGPT
   type: select
   proxies:
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: Ⓜ️ Microsoft
   type: select
   proxies:
@@ -1542,115 +1542,115 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: 🍎 苹果服务
   type: select
   proxies:
@@ -1662,115 +1662,115 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: ✉️ Gmail
   type: select
   proxies:
@@ -1782,115 +1782,115 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: 🔞 Pornhub
   type: select
   proxies:
@@ -1901,343 +1901,343 @@ proxy-groups:
   - 🇰🇷 韩国
   - 🇯🇵 日本
   - 🇺🇸 美国
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: 🎯 全球直连
   type: select
   proxies:
   - DIRECT
   - 🚀 手动切换
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 - name: 🐟 漏网之鱼
   type: select
   proxies:
   - 🎯 全球直连
   - 🚀 手动切换
-  - 🇺🇦 乌克兰01 - 标准 Exclusive ✈️
-  - 🇮🇱 以色列01 - 标准 Exclusive ✈️
-  - 🇮🇷 伊朗01 - 标准 Exclusive ✈️
-  - 🇷🇺 俄罗斯01 - 标准 Exclusive ✈️
-  - 🇭🇺 匈牙利01 - 原生 Exclusive ✈️
-  - 🇿🇦 南非01-标准 Exclusive ✈️
-  - 🇮🇩 印度尼西亚01 - 标准 Exclusive ✈️
-  - 🇹🇼 台湾01 - 原生 Exclusive ✈️
-  - 🇹🇼 台湾02 - 解锁 Exclusive ✈️
-  - 🇹🇼 台湾03 - 解锁 Exclusive ✈️
-  - 🇦🇹 奥地利01 - 原生 Exclusive ✈️
-  - 🇳🇬 尼日利亚01 - 标准 Exclusive ✈️
-  - 🇵🇰 巴基斯坦01 - 标准 Exclusive ✈️
-  - 🇧🇷 巴西01 - 标准 Exclusive ✈️
-  - 🇸🇬 新加坡01-解锁 Exclusive ✈️
-  - 🇸🇬 新加坡02 - 解锁 Exclusive ✈️
-  - 🇸🇬 新加坡03 - 原生 Exclusive ✈️
-  - 🇸🇬 新加坡04 - 标准 Exclusive ✈️
-  - 🇯🇵 日本01 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本02 - 解锁 Exclusive ✈️
-  - 🇯🇵 日本03 - 标准 Exclusive ✈️
-  - 🇯🇵 日本04 - 原生 Exclusive ✈️
-  - 🇯🇵 日本05 - 原生 Exclusive ✈️
-  - 🇹🇭 泰国01 - 标准 Exclusive ✈️
-  - 🇸🇪 瑞典01 - 标准 Exclusive ✈️
-  - 🇨🇭 瑞士01 - 标准 Exclusive ✈️
-  - 🇱🇹 立陶宛01 - 原生 Exclusive ✈️
-  - 🇺🇸 美国01 - 解锁 Exclusive ✈️
-  - 🇺🇸 美国02-解锁 Exclusive ✈️
-  - 🇺🇸 美国03 - 标准 Exclusive ✈️
-  - 🇺🇸 美国04 - 原生 Exclusive ✈️
-  - 🇬🇧 英国01 - 原生 Exclusive ✈️
-  - 🇳🇱 荷兰01 - 原生 Exclusive ✈️
-  - 🇻🇳 越南01 - 标准 Exclusive ✈️
-  - 🇦🇪 迪拜01 - 标准 Exclusive ✈️
-  - 🇰🇷 韩国01 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国02 - 解锁 Exclusive ✈️
-  - 🇰🇷 韩国03 - 解锁 Exclusive ✈️
-  - 🇭🇰 香港01 - 标准 Exclusive ✈️
-  - 🇭🇰 香港02 - 标准 Exclusive ✈️
-  - 🇭🇰 香港03-原生 Exclusive ✈️
-  - 🇭🇰 香港04-标准 Exclusive ✈️
-  - 🇭🇰 香港05 - 原生 Exclusive ✈️
-  - 🇭🇰 香港06 - 标准 Exclusive ✈️
-  - 🇭🇰 香港07 - 原生 Exclusive ✈️
-  - 🇲🇾 马来西亚01 - 原生 Exclusive ✈️
-  - 🇩🇰 丹麦A - 原生 Premium ✈️
-  - 🇧🇬 保加利亚A - 原生 Premium ✈️
-  - 🇮🇳 印度A - 标准 Premium ✈️
-  - 🇹🇼 台湾A - 原生 Premium ✈️
-  - 🇹🇼 台湾B - 原生 Premium ✈️
-  - 🇹🇼 台湾C - 原生 Premium ✈️
-  - 🇹🇼 台湾D - 原生 Premium ✈️
-  - 🇹🇼 台湾E - 解锁 Premium ✈️
-  - 🇹🇷 土耳其A - 原生 Premium ✈️
-  - 🇲🇽 墨西哥A - 标准 Premium ✈️
-  - 🇧🇷 巴西A - 标准 Premium ✈️
-  - 🇮🇹 意大利A-标准 Premium ✈️
-  - 🇲🇩 摩尔多瓦A - 原生 Premium ✈️
-  - 🇸🇬 新加坡A - 解锁 Premium ✈️
-  - 🇸🇬 新加坡B - 标准 Premium ✈️
-  - 🇸🇬 新加坡C - 解锁 Premium ✈️
-  - 🇸🇬 新加坡D - 标准 Premium ✈️
-  - 🇯🇵 日本A - 标准 Premium ✈️
-  - 🇯🇵 日本B - 标准 Premium ✈️
-  - 🇯🇵 日本C - 解锁 Premium ✈️
-  - 🇯🇵 日本D - 解锁 Premium ✈️
-  - 🇯🇵 日本E - 原生 Premium ✈️
-  - 🇨🇱 智利A - 标准 Premium ✈️
-  - 🇧🇪 比利时A - 原生 Premium ✈️
-  - 🇸🇦 沙特阿拉伯A - 标准 Premium ✈️
-  - 🇦🇺 澳大利亚A - 原生 Premium ✈️
-  - 🇺🇸 美国A - 解锁 Premium ✈️
-  - 🇺🇸 美国B - 解锁 Premium ✈️
-  - 🇺🇸 美国C - 解锁 Premium ✈️
-  - 🇺🇸 美国D - 标准 Premium ✈️
-  - 🇺🇸 美国E - 解锁 Premium ✈️
-  - 🇺🇸 美国F - 标准 Premium ✈️
-  - 🇺🇸 美国G - 解锁 Premium ✈️
-  - 🇵🇭 菲律宾A - 原生 Premium ✈️
-  - 🇦🇷 阿根廷A-标准 Premium ✈️
-  - 🇰🇷 韩国A - 解锁 Premium ✈️
-  - 🇰🇷 韩国B - 解锁 Premium ✈️
-  - 🇭🇰 香港A - 标准 Premium ✈️
-  - 🇭🇰 香港B - 标准 Premium ✈️
-  - 🇭🇰 香港C - 原生 Premium ✈️
-  - 🇭🇰 香港D - 原生 Premium ✈️
-  - 🇭🇰 香港E - 解锁 Premium ✈️
-  - 🇭🇰 香港F - 解锁 Premium ✈️
-  - 🇭🇰 香港G - 原生 Premium ✈️
-  - 🇭🇰 香港H - 原生 Premium ✈️
-  - 🇷🇺 俄罗斯I - 原生 Light ✈️
-  - 🇨🇦 加拿大I - 标准 Light ✈️
-  - 🇹🇼 台湾I - 原生 Light ✈️
-  - 🇩🇪 德国I - 标准 Light ✈️
-  - 🇸🇬 新加坡I - 解锁 Light ✈️
-  - 🇯🇵 日本I - 解锁 Light ✈️
-  - 🇯🇵 日本II - 标准 Light ✈️
-  - 🇫🇷 法国I - 标准 Light ✈️
-  - 🇵🇱 波兰I - 标准 Light ✈️
-  - 🇷🇴 罗马尼亚I - 下载 Light ✈️
-  - 🇺🇸 美国I - 解锁 Light ✈️
-  - 🇺🇸 美国II - 解锁 Light ✈️
-  - 🇺🇸 美国III - 标准 Light ✈️
-  - 🇬🇧 英国I - 解锁 Light ✈️
-  - 🇰🇷 韩国I - 解锁 Light ✈️
-  - 🇭🇰 香港I - 原生 Light ✈️
-  - 🇭🇰 香港II - 标准 Light ✈️
-  - 🇭🇰 香港III - 标准 Light ✈️
+  - 🇺🇦 乌克兰01 - 标准 Exclusive
+  - 🇮🇱 以色列01 - 标准 Exclusive
+  - 🇮🇷 伊朗01 - 标准 Exclusive
+  - 🇷🇺 俄罗斯01 - 标准 Exclusive
+  - 🇭🇺 匈牙利01 - 原生 Exclusive
+  - 🇿🇦 南非01-标准 Exclusive
+  - 🇮🇩 印度尼西亚01 - 标准 Exclusive
+  - 🇹🇼 台湾01 - 原生 Exclusive
+  - 🇹🇼 台湾02 - 解锁 Exclusive
+  - 🇹🇼 台湾03 - 解锁 Exclusive
+  - 🇦🇹 奥地利01 - 原生 Exclusive
+  - 🇳🇬 尼日利亚01 - 标准 Exclusive
+  - 🇵🇰 巴基斯坦01 - 标准 Exclusive
+  - 🇧🇷 巴西01 - 标准 Exclusive
+  - 🇸🇬 新加坡01-解锁 Exclusive
+  - 🇸🇬 新加坡02 - 解锁 Exclusive
+  - 🇸🇬 新加坡03 - 原生 Exclusive
+  - 🇸🇬 新加坡04 - 标准 Exclusive
+  - 🇯🇵 日本01 - 解锁 Exclusive
+  - 🇯🇵 日本02 - 解锁 Exclusive
+  - 🇯🇵 日本03 - 标准 Exclusive
+  - 🇯🇵 日本04 - 原生 Exclusive
+  - 🇯🇵 日本05 - 原生 Exclusive
+  - 🇹🇭 泰国01 - 标准 Exclusive
+  - 🇸🇪 瑞典01 - 标准 Exclusive
+  - 🇨🇭 瑞士01 - 标准 Exclusive
+  - 🇱🇹 立陶宛01 - 原生 Exclusive
+  - 🇺🇸 美国01 - 解锁 Exclusive
+  - 🇺🇸 美国02-解锁 Exclusive
+  - 🇺🇸 美国03 - 标准 Exclusive
+  - 🇺🇸 美国04 - 原生 Exclusive
+  - 🇬🇧 英国01 - 原生 Exclusive
+  - 🇳🇱 荷兰01 - 原生 Exclusive
+  - 🇻🇳 越南01 - 标准 Exclusive
+  - 🇦🇪 迪拜01 - 标准 Exclusive
+  - 🇰🇷 韩国01 - 解锁 Exclusive
+  - 🇰🇷 韩国02 - 解锁 Exclusive
+  - 🇰🇷 韩国03 - 解锁 Exclusive
+  - 🇭🇰 香港01 - 标准 Exclusive
+  - 🇭🇰 香港02 - 标准 Exclusive
+  - 🇭🇰 香港03-原生 Exclusive
+  - 🇭🇰 香港04-标准 Exclusive
+  - 🇭🇰 香港05 - 原生 Exclusive
+  - 🇭🇰 香港06 - 标准 Exclusive
+  - 🇭🇰 香港07 - 原生 Exclusive
+  - 🇲🇾 马来西亚01 - 原生 Exclusive
+  - 🇩🇰 丹麦A - 原生 Premium
+  - 🇧🇬 保加利亚A - 原生 Premium
+  - 🇮🇳 印度A - 标准 Premium
+  - 🇹🇼 台湾A - 原生 Premium
+  - 🇹🇼 台湾B - 原生 Premium
+  - 🇹🇼 台湾C - 原生 Premium
+  - 🇹🇼 台湾D - 原生 Premium
+  - 🇹🇼 台湾E - 解锁 Premium
+  - 🇹🇷 土耳其A - 原生 Premium
+  - 🇲🇽 墨西哥A - 标准 Premium
+  - 🇧🇷 巴西A - 标准 Premium
+  - 🇮🇹 意大利A-标准 Premium
+  - 🇲🇩 摩尔多瓦A - 原生 Premium
+  - 🇸🇬 新加坡A - 解锁 Premium
+  - 🇸🇬 新加坡B - 标准 Premium
+  - 🇸🇬 新加坡C - 解锁 Premium
+  - 🇸🇬 新加坡D - 标准 Premium
+  - 🇯🇵 日本A - 标准 Premium
+  - 🇯🇵 日本B - 标准 Premium
+  - 🇯🇵 日本C - 解锁 Premium
+  - 🇯🇵 日本D - 解锁 Premium
+  - 🇯🇵 日本E - 原生 Premium
+  - 🇨🇱 智利A - 标准 Premium
+  - 🇧🇪 比利时A - 原生 Premium
+  - 🇸🇦 沙特阿拉伯A - 标准 Premium
+  - 🇦🇺 澳大利亚A - 原生 Premium
+  - 🇺🇸 美国A - 解锁 Premium
+  - 🇺🇸 美国B - 解锁 Premium
+  - 🇺🇸 美国C - 解锁 Premium
+  - 🇺🇸 美国D - 标准 Premium
+  - 🇺🇸 美国E - 解锁 Premium
+  - 🇺🇸 美国F - 标准 Premium
+  - 🇺🇸 美国G - 解锁 Premium
+  - 🇵🇭 菲律宾A - 原生 Premium
+  - 🇦🇷 阿根廷A-标准 Premium
+  - 🇰🇷 韩国A - 解锁 Premium
+  - 🇰🇷 韩国B - 解锁 Premium
+  - 🇭🇰 香港A - 标准 Premium
+  - 🇭🇰 香港B - 标准 Premium
+  - 🇭🇰 香港C - 原生 Premium
+  - 🇭🇰 香港D - 原生 Premium
+  - 🇭🇰 香港E - 解锁 Premium
+  - 🇭🇰 香港F - 解锁 Premium
+  - 🇭🇰 香港G - 原生 Premium
+  - 🇭🇰 香港H - 原生 Premium
+  - 🇷🇺 俄罗斯I - 原生 Light
+  - 🇨🇦 加拿大I - 标准 Light
+  - 🇹🇼 台湾I - 原生 Light
+  - 🇩🇪 德国I - 标准 Light
+  - 🇸🇬 新加坡I - 解锁 Light
+  - 🇯🇵 日本I - 解锁 Light
+  - 🇯🇵 日本II - 标准 Light
+  - 🇫🇷 法国I - 标准 Light
+  - 🇵🇱 波兰I - 标准 Light
+  - 🇷🇴 罗马尼亚I - 下载 Light
+  - 🇺🇸 美国I - 解锁 Light
+  - 🇺🇸 美国II - 解锁 Light
+  - 🇺🇸 美国III - 标准 Light
+  - 🇬🇧 英国I - 解锁 Light
+  - 🇰🇷 韩国I - 解锁 Light
+  - 🇭🇰 香港I - 原生 Light
+  - 🇭🇰 香港II - 标准 Light
+  - 🇭🇰 香港III - 标准 Light
 rules:
 - DOMAIN-KEYWORD,openai,💬 ChatGPT
 - DOMAIN-KEYWORD,gmail,✉️ Gmail
